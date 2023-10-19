@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=DESKTOP-PS969HM;Database=Hemming;Trusted_connection=true;TrustServerCertificate=True;Encrypt=false"
+  }
+}
